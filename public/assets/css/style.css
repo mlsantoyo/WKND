@@ -1,0 +1,81 @@
+
+
+#logo {
+	height: 50px; 
+	width: 50px;
+}
+
+#brand {
+	padding-bottom: 20px;
+}
+
+#branch {
+	padding-bottom: 40px;
+}
+
+button {
+	background-color: #f09b1c; 
+	color: black;
+}
+
+#testBtn0,#testBtn1,#testBtn2,#testBtn3,#testBtn4,#testBtn5,#testBtn6,#testBtn7,#testBtn8 {
+	background-color: #f09b1c; 
+	color: black;
+	position: absolute;
+	left: 50px;
+	bottom: 10px;
+}
+
+.thumbnail {
+	height: 350px;
+	width: 200px;
+	margin: 30px;
+}
+
+.pic {
+	height: 150px;
+	width: 150px;
+}
+
+#PINvitation {
+	margin-top: 20px;
+}
+
+#PIN {
+	position: absolute;
+	width: 150px;
+}
+
+
+.modalImg {
+	height: 200px;
+	width: 200px;
+
+}
+
+.location{
+	padding: 10px;
+}
+
+/*****************/
+button.submit {
+  float: right;
+}
+
+form#cms {
+  margin-top: 50px;
+}
+
+#cms textarea {
+  resize: none;
+}
+
+.panel-heading button.delete,
+button.edit {
+  float: right;
+  margin: 5px;
+}
+
+.top-30 {
+  margin-top: 30px;
+}
